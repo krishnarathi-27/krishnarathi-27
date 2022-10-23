@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Rathi</h1>
 <h3 align="center">A passionate android development enthusiast from India</h3>
 
-<img align="right" alt="coding" src="![image](https://user-images.githubusercontent.com/92110216/197375018-2a769b7a-919e-451b-9b6c-6d7905ccb741.png)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnarathi-27&label=Profile%20views&color=0e75b6&style=flat" alt="krishnarathi-27" /> </p>
 
