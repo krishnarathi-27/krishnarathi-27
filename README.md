@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnarathi-27&label=Profile%20views&color=0e75b6&style=flat" alt="krishnarathi-27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnarathi-27" alt="krishnarathi-27" /></a> </p>
+[![@krishnarathi's Holopin board](https://holopin.me/krishnarathi)](https://holopin.io/@krishnarathi)
 
 - 🔭 I’m currently working on [Beats - A music App](https://github.com/krishnarathi-27/Beats)
 
