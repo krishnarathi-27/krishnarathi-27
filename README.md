@@ -6,7 +6,7 @@
 
 [![@krishnarathi's Holopin board](https://holopin.me/krishnarathi)](https://holopin.io/@krishnarathi)
 
-- 🔭 I’m currently working on [Beats - A music App](https://github.com/krishnarathi-27/Beats)
+- 🔭 I’m currently working on [Android Kotlin App]
 
 - 🌱 I’m currently learning **Kotlin**
 
