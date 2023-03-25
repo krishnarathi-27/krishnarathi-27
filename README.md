@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **krishna2707rathi@gmail.com**
 
-- 📄 Know about my experiences [ResumeLink](https://drive.google.com/file/d/1d8DFReonx6dCQAhSLXtj1njB_fil9Aud/view?usp=share_link)
+- 📄 Know about my experiences [ResumeLink](https://drive.google.com/file/d/1ltSZ3ZcbW5qV7uaw7FzWYJo711m9bhQV/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
